@@ -1,0 +1,3 @@
+https://github.com/karthikasasanka/fastapi-tortoise-orm-postgresql/tree/master
+https://github.com/tortoise/aeric
+https://stackoverflow.com/ques\\\3546ns/67257307/fastapi-tortoise-early-model-init
